@@ -1,7 +1,7 @@
 {
 	"name": "express-api",
 	"version": "1.0.0",
-	"description": "A rest api that can be used for e-commerce purpose",
+	"description": "Example of Authentication With jwt",
 	"main": "index.js",
 	"scripts": {
 		"start": "node server.js",
